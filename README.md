@@ -25,7 +25,7 @@ Tujuan dari repository ini adalah untuk menunjukkan proses belajar secara terstr
 | Pertemuan 4 | Penggunaan library Python dalam Data Science | [Buka Notebook](./Pertemuan4_Rifki%20pratama.ipynb) |
 | Pertemuan 5 | Pengolahan data menggunakan Pandas dan NumPy | [Buka Notebook](./Pertemuan5_Rifki%20pratama%20240401010375.ipynb) |
 | Pertemuan 6 | Visualisasi data menggunakan Matplotlib dan/atau Seaborn | [Buka Notebook](./Pertemuan6_Rifki%20pratama%20240401010375.ipynb) |
-| Pertemuan 7 | Analisis data dan rangkuman pembelajaran Data Science | [Buka Notebook](./Pertemuan%207_Destantyo_240401010024.ipynb) |
+| Pertemuan 7 | Analisis data dan rangkuman pembelajaran Data Science | [Buka Notebook](./Pertemuan7_Rifki%20Pratama%20240401010375.ipynb) |
 
 ## Tools dan Library yang Digunakan
 
@@ -62,4 +62,4 @@ Notebook dapat dijalankan dengan dua cara:
 1. Clone repository ini:
 
 ```bash
-git clone https://github.com/Dastanzzzz/Data-Science-2026.git
+
