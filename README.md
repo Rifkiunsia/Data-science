@@ -23,7 +23,7 @@ Tujuan dari repository ini adalah untuk menunjukkan proses belajar secara terstr
 | Pertemuan 2 | Dasar-dasar Python untuk pengolahan data | [Buka Notebook](./Pertemuan2_Rifki%20pratama%20240401010375.ipynb) |
 | Pertemuan 3 | Struktur data dan manipulasi data sederhana | [Buka Notebook](./Pertemuan3_Rifki%20pratama%20240401010375.ipynb) |
 | Pertemuan 4 | Penggunaan library Python dalam Data Science | [Buka Notebook](./Pertemuan4_Rifki%20pratama.ipynb) |
-| Pertemuan 5 | Pengolahan data menggunakan Pandas dan NumPy | [Buka Notebook](./Pertemuan%205_Destantyo_240401010024.ipynb) |
+| Pertemuan 5 | Pengolahan data menggunakan Pandas dan NumPy | [Buka Notebook](./Pertemuan5_Rifki%20pratama%20240401010375.ipynb) |
 | Pertemuan 6 | Visualisasi data menggunakan Matplotlib dan/atau Seaborn | [Buka Notebook](./Pertemuan%206_Destantyo_240401010024.ipynb) |
 | Pertemuan 7 | Analisis data dan rangkuman pembelajaran Data Science | [Buka Notebook](./Pertemuan%207_Destantyo_240401010024.ipynb) |
 
