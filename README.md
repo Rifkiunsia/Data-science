@@ -18,7 +18,7 @@ Tujuan dari repository ini adalah untuk menunjukkan proses belajar secara terstr
 
 | Pertemuan | Topik Singkat | Link Notebook |
 |---|---|---|
-| Pertemuan 1 | Pengenalan Data Science dan dasar penggunaan Python/Jupyter Notebook | [Buka Notebook](./Pertemuan%201_Destantyo_240401010024.ipynb) |
+| Pertemuan 1 | Pengenalan Data Science dan dasar penggunaan Python/Jupyter Notebook | [Buka Notebook](./Pertemuan1_Rifki%20pratama%20240401010375.ipynb) |
 | Pertemuan 2 | Dasar-dasar Python untuk pengolahan data | [Buka Notebook](./Pertemuan%202_Destantyo_240401010024.ipynb) |
 | Pertemuan 3 | Struktur data dan manipulasi data sederhana | [Buka Notebook](./Pertemuan%203_Destantyo_240401010024.ipynb) |
 | Pertemuan 4 | Penggunaan library Python dalam Data Science | [Buka Notebook](./Pertemuan%204_Destantyo_240401010024.ipynb) |
