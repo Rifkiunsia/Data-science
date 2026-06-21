@@ -57,9 +57,5 @@ Notebook dapat dijalankan dengan dua cara:
 3. Jalankan setiap sel dari atas ke bawah.
 4. Pastikan seluruh output muncul tanpa error.
 
-### 2. Melalui Jupyter Notebook Lokal
 
-1. Clone repository ini:
-
-```bash
 
