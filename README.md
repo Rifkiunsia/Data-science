@@ -2,8 +2,9 @@
 
 ## Identitas Mahasiswa
 
-Nama Lengkap: Destantyo N.R  
-NIM: 240401010024  
+Nama Lengka: Rifki pratama
+
+NIM: 240401010375 
 Kelas: IF405  
 Program Studi: Informatika  
 Universitas: Universitas Siber Asia  
