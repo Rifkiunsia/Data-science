@@ -26,7 +26,11 @@ Tujuan dari repository ini adalah untuk menunjukkan proses belajar secara terstr
 | Pertemuan 5 | Pengolahan data menggunakan Pandas dan NumPy | [Buka Notebook](./Pertemuan5_Rifki%20pratama%20240401010375.ipynb) |
 | Pertemuan 6 | Visualisasi data menggunakan Matplotlib dan/atau Seaborn | [Buka Notebook](./Pertemuan6_Rifki%20pratama%20240401010375.ipynb) |
 | Pertemuan 7 | Analisis data dan rangkuman pembelajaran Data Science | [Buka Notebook](./Pertemuan7_Rifki%20Pratama%20240401010375.ipynb) |
-| Pertemuan 9 | Analisis data dan rangkuman pembelajaran Data Science | [Buka Notebook](./Pertemuan9_Rifki%20Pratama%20240401010375.ipynb) |
+| Pertemuan 9 | Aloritma klasifikasi| [Buka Notebook](./Pertemuan9_Rifki%20Pratama%20240401010375.ipynb) |
+| Pertemuan 10| Aloritma klasifikasi| [Buka Notebook](./Pertemuan10_Rifki%20Pratama%20240401010375.ipynb) |
+| Pertemuan 11| Unsupervised Learning (Clustering):| [Buka Notebook](./Pertemuan11_Rifki%20Pratama%20240401010375.ipynb) |
+| Pertemuan 12| Asosiasi Data & Sistem Rekomendasi Dasar| [Buka Notebook](./Pertemuan12_Rifki%20Pratama%20240401010375.ipynb) |
+| Pertemuan 13| Pengantar Deep Learning & NLP Dasar:| [Buka Notebook](./Pertemuan13_Rifki%20Pratama%20240401010375.ipynb) |
 
 
 ## Tools dan Library yang Digunakan
